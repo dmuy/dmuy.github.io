@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: dmuy.github.io
-Token: fb4c3fe87291daa7a3196051b2aecc2f9b7afd4d55b34cfaef6779d5a852fc01
